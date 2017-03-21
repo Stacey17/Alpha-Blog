@@ -207,6 +207,97 @@
       "status": 0,
       "runtime": 643,
       "valid": true
+    },
+    {
+      "command": "git:remote",
+      "plugin": "heroku-git",
+      "plugin_version": "2.5.11",
+      "timestamp": 1490058218,
+      "version": "5.7.5-18ff676",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 462,
+      "valid": true
+    },
+    {
+      "command": "config:get",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.2.7",
+      "timestamp": 1490058400,
+      "version": "5.7.5-18ff676",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 488,
+      "valid": true
+    },
+    {
+      "command": "config:get",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.2.7",
+      "timestamp": 1490058408,
+      "version": "5.7.5-18ff676",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 505,
+      "valid": true
+    },
+    {
+      "command": "config",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.2.7",
+      "timestamp": 1490058413,
+      "version": "5.7.5-18ff676",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 517,
+      "valid": true
+    },
+    {
+      "command": "buildpacks:set",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.2.7",
+      "timestamp": 1490059015,
+      "version": "5.7.5-18ff676",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 832,
+      "valid": true
+    },
+    {
+      "command": "login",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.2.7",
+      "timestamp": 1490059410,
+      "version": "5.7.5-18ff676",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 10063,
+      "valid": true
+    },
+    {
+      "command": "create",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.2.7",
+      "timestamp": 1490059437,
+      "version": "5.7.5-18ff676",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 654,
+      "valid": true
     }
   ]
 }
