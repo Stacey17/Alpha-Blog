@@ -298,6 +298,32 @@
       "status": 0,
       "runtime": 654,
       "valid": true
+    },
+    {
+      "command": "keys:add",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.2.7",
+      "timestamp": 1490059548,
+      "version": "5.7.5-18ff676",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 5724,
+      "valid": true
+    },
+    {
+      "command": "apps",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.2.7",
+      "timestamp": 1490059618,
+      "version": "5.7.5-18ff676",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 557,
+      "valid": true
     }
   ]
 }
