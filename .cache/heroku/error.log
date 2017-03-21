@@ -31,3 +31,75 @@
 2017/03/21 00:28:27 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
 2017/03/21 00:28:27 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
 2017/03/21 00:28:27 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: create
+2017/03/21 00:38:27 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:38:27 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:38:27 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: keys:add
+2017/03/21 00:44:04 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:44:04 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:44:18 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:44:18 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:44:40 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:44:40 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:44:40 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: keys
+2017/03/21 00:45:04 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:45:04 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:45:04 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: config
+2017/03/21 00:45:04  ▸    Error: No app specified
+ ▸    Usage: heroku config --app APP
+ ▸    We don't know which app to run this on.
+ ▸    Run this command from inside an app folder or specify which app to use with --app APP
+ ▸    
+ ▸    https://devcenter.heroku.com/articles/using-the-cli#app-commands
+2017/03/21 00:55:30 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:55:30 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:55:30 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: rename
+2017/03/21 00:55:30  ▸    Error: No app specified
+ ▸    Usage: heroku rename NEWNAME --app APP
+ ▸    We don't know which app to run this on.
+ ▸    Run this command from inside an app folder or specify which app to use with --app APP
+ ▸    
+ ▸    https://devcenter.heroku.com/articles/using-the-cli#app-commands
+2017/03/21 00:55:47 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:55:47 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: dashboard
+2017/03/21 00:55:58 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:55:58 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:55:58 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: apps
+2017/03/21 00:58:01 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:58:01 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:58:01 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: create
+2017/03/21 00:58:07 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:58:07 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:58:07 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: rename
+2017/03/21 00:58:07  ▸    Missing argument: NEWNAME
+2017/03/21 00:58:15 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:58:15 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:58:15 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: rename
+2017/03/21 00:58:15  ▸    Error: No app specified
+ ▸    Usage: heroku rename NEWNAME --app APP
+ ▸    We don't know which app to run this on.
+ ▸    Run this command from inside an app folder or specify which app to use with --app APP
+ ▸    
+ ▸    https://devcenter.heroku.com/articles/using-the-cli#app-commands
+2017/03/21 00:58:42 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:58:42 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:58:42 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: rename
+2017/03/21 00:58:42  ▸    Error: No app specified
+ ▸    Usage: heroku rename NEWNAME --app APP
+ ▸    We don't know which app to run this on.
+ ▸    Run this command from inside an app folder or specify which app to use with --app APP
+ ▸    
+ ▸    https://devcenter.heroku.com/articles/using-the-cli#app-commands
+2017/03/21 00:58:47 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 00:58:47 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 00:58:47 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: rename
+2017/03/21 00:58:47  ▸    Error: Unexpected argument superstacey
+ ▸    Usage: heroku rename NEWNAME
+ ▸    You gave this command too many arguments. Try the command again without these extra arguments.
+ ▸    
+ ▸    See more information with heroku rename --help
+2017/03/21 01:00:35 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 01:00:35 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 01:00:35 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2017/03/21 01:01:04 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/03/21 01:01:04 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/03/21 01:01:04 heroku-cli/5.7.5-18ff676 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: rename
